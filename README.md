@@ -18,7 +18,7 @@ Aunque no hay enemigos, Gordon cuenta con 2 armas:
 
 ### Gameplay general, con música y efectos de sonido
 
-![Ver en Youtube](https://youtu.be/VGf3H2xAtrs)
+[Ver en Youtube](https://youtu.be/VGf3H2xAtrs)
 
 ### Funcionamiento con control
 
